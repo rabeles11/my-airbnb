@@ -1,0 +1,34 @@
+.HeroeSection{
+    display: flex;
+    flex-direction: column;
+    padding-top: 96px;
+    padding-bottom: 32px;
+}
+.HeroeImage{
+    width: 60%;
+    align-self: center;
+    padding-bottom: 60px;
+}
+
+.HeroeH1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 76px;
+    line-height: 5%;
+    color: #000000;
+    padding-left: 290px;
+}
+.HeroeP{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 110%;
+    text-align: left;
+    padding-right: 400px;
+    color: #222222;
+    padding-left: 290px;
+
+
+}
